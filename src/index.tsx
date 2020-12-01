@@ -334,7 +334,7 @@ const styles = StyleSheet.create({
   paginationContainer: {
     position: 'absolute',
     bottom: 16,
-    left: 16,
+    left: '-60%',
     right: 16,
     justifyContent: 'center',
   },
